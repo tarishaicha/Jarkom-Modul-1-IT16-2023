@@ -29,7 +29,7 @@ Setelah itu, lakukan `nc` pada ip yang disediakan dan masukan jawaban yang telah
 Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 
 ![image](https://github.com/tarishaicha/Jarkom-Modul-1-IT16-2023/assets/107459188/48c527f6-186c-4fdf-96e9-b0317763aefc)
-Filter dengan memasukan Ip Address yang dicari
+Filter dengan memasukan Ip Address yang dicari yang telah diberikan pada soal
 
 ![image](https://github.com/tarishaicha/Jarkom-Modul-1-IT16-2023/assets/107459188/eff582ff-f610-43d8-b492-43533d4b53d1)
 Follow stream IP addressnya lalu, tertulis Server: gunicorn
